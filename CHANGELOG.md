@@ -5,6 +5,17 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](http://keepachangelog.com/) and this
 project adheres to [Semantic Versioning](http://semver.org/).
 
+## [22.0.0](https://github.com/terraform-google-modules/terraform-google-sql-db/compare/v21.0.2...v22.0.0) (2024-09-10)
+
+
+### ⚠ BREAKING CHANGES
+
+* Add connection metadata, output and support for ml integration for Mysql module ([#637](https://github.com/terraform-google-modules/terraform-google-sql-db/issues/637))
+
+### Features
+
+* Add connection metadata, output and support for ml integration for Mysql module ([#637](https://github.com/terraform-google-modules/terraform-google-sql-db/issues/637)) ([f2c91fa](https://github.com/terraform-google-modules/terraform-google-sql-db/commit/f2c91fa688f46e24bab576f12204f0224bf995c6))
+
 ## [21.0.2](https://github.com/terraform-google-modules/terraform-google-sql-db/compare/v21.0.1...v21.0.2) (2024-09-04)
 
 
